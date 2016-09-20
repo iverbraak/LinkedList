@@ -1,0 +1,12 @@
+C:\Users\Bella\Desktop\HW4\bin\Debug\HW4.exe.config
+C:\Users\Bella\Desktop\HW4\bin\Debug\HW4.exe
+C:\Users\Bella\Desktop\HW4\bin\Debug\HW4.pdb
+C:\Users\Bella\Desktop\HW4\obj\Debug\HW4.csprojResolveAssemblyReference.cache
+C:\Users\Bella\Desktop\HW4\obj\Debug\HW4.exe
+C:\Users\Bella\Desktop\HW4\obj\Debug\HW4.pdb
+D:\Profiles\iv6703\HW4\HW4\bin\Debug\HW4.exe.config
+D:\Profiles\iv6703\HW4\HW4\obj\Debug\HW4.exe
+D:\Profiles\iv6703\HW4\HW4\obj\Debug\HW4.pdb
+D:\Profiles\iv6703\HW4\HW4\bin\Debug\HW4.exe
+D:\Profiles\iv6703\HW4\HW4\bin\Debug\HW4.pdb
+D:\Profiles\iv6703\HW4\HW4\obj\Debug\HW4.csprojResolveAssemblyReference.cache
